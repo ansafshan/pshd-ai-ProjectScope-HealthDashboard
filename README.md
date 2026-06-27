@@ -1,6 +1,6 @@
 # pshd-ai Dashboard 📊✨
 
-An enterprise-grade, full-stack AI orchestration platform designed for technical project managers and engineering teams. This application securely ingests chaotic, unstructured client communications (emails, Slack threads, rough briefs), processes them through advanced generative AI schemas, and translates them instantly into structured project health matrices.
+This application securely ingests chaotic, unstructured client communications (emails, Slack threads, rough briefs), processes them through advanced generative AI schemas, and translates them instantly into structured project health matrices.
 
 ## 🚀 Key Architectural Features
 
