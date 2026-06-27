@@ -27,5 +27,5 @@ Follow these sequential steps to run this application locally on your machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clonehttps://github.com/ansafshan/pshd-ai-ProjectScope-HealthDashboard
+cd pshd-ai-ProjectScope-HealthDashboard
